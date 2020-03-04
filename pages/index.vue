@@ -10,7 +10,7 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxt-app
+        nuxt-boilerplate
       </h1>
       <h2 class="subtitle">
         My badass Nuxt.js project

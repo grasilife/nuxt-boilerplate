@@ -1,4 +1,4 @@
-# nuxt-app
+# nuxt-boilerplate
 
 > My badass Nuxt.js project
 
